@@ -1,2 +1,2 @@
-# SB200BE 3Ph 380AC 3kW load controller
+# 3Ph, 380 VAC, 3 kW, power voltage regulator for motors
 ![PCB](https://github.com/Indemsys/SB200BE/blob/master/PCB_SB200BEv2/PCB_1200px.png)
